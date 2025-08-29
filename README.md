@@ -31,10 +31,10 @@ CTO | Software Engineer | Open Source Contributor
 I write about software quality, DevOps, AI, and developer productivity:  
 ➡️ [blog.lepine.pro](https://blog.lepine.pro/en/) *(or [🇫🇷 in French](https://blog.lepine.pro/))*
 
----
+
 
 ## 📬 Connect
 
 - Twitter/X: [@Halleck45](https://x.com/Halleck45)  
-- LinkedIn: [linkedin.com/in/jean-francois-lépine]([https://linkedin.com/in/jflepine](https://www.linkedin.com/in/jean-fran%C3%A7ois-l%C3%A9pine-6a122726/))  
+- LinkedIn: [linkedin.com/in/jean-francois-lépine](https://www.linkedin.com/in/jean-fran%C3%A7ois-l%C3%A9pine-6a122726/)
 
