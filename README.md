@@ -3,7 +3,7 @@
 CTO | Software Engineer | Open Source Contributor  
 
 - ⚡ 19+ years in software architecture, DevOps, and engineering leadership  
-- 🛠 Creator of [PhpMetrics](https://github.com/phpmetrics/PhpMetrics) (2.6k+ ⭐) and [AST-Metrics](https://github.com/Halleck45/ast-metrics)  
+- 🛠 Creator of [PhpMetrics](https://github.com/phpmetrics/PhpMetrics) (2.6k+ ⭐), [AST-Metrics](https://github.com/Halleck45/ast-metrics)  and [PromptCC](https://github.com/Halleck45/promptcc)
 - 🌍 Experience with AI (speech, embeddings), PHP, Go, distributed systems  
 - 🚀 Scaling SaaS platforms, modernizing architectures, reducing time-to-market  
 - 🎤 Conference speaker
@@ -11,19 +11,13 @@ CTO | Software Engineer | Open Source Contributor
 
 ## 🔑 Open Source Highlights
 
-- [PhpMetrics](https://github.com/phpmetrics/PhpMetrics) → static analysis for PHP (2.6k+ stars)  
+- [PhpMetrics](https://github.com/phpmetrics/PhpMetrics) → static analysis for PHP
 - [AST-Metrics](https://github.com/Halleck45/ast-metrics) → multi-language static code analyzer (Rust, Go, Python...) 
-- [MutaTesting](https://github.com/Halleck45/MutaTesting) → mutation testing for PHP  
+- [MutaTesting](https://github.com/Halleck45/MutaTesting) → mutation testing for PHP
+- [PromptCC](https://github.com/Halleck45/promptcc) → static analysis for LLM Prompts
 - [go-php-parser](https://github.com/Halleck45/go-php-parser) → PHP AST parsing in Go  
 - [captain-dys](https://github.com/Halleck45/captain-dys) → text editor for dyslexic children
 - [OpenPronounce](https://github.com/Halleck45/OpenPronounce) → AI-powered open-source toolkit for real-time English pronunciation feedback.
-
-
-## 📈 Impact
-
-- 2,300+ contributions in the last year  
-- Dozens of OSS projects used by thousands of developers  
-- Sponsors supporting my work on [GitHub Sponsors](https://github.com/sponsors/Halleck45)  
 
 
 ## 📝 Blog
