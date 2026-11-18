@@ -6,6 +6,7 @@ I'm a CTO at an EdTech company and I've been writing software for 20 years. Most
 
 - [PhpMetrics](https://github.com/phpmetrics/PhpMetrics) measures complexity, coupling and maintainability in PHP projects, and turns them into a report you can bring to a code review.
 - [AST-Metrics](https://github.com/Halleck45/ast-metrics) does the same across languages (Go, Python, Rust, PHP) and runs in CI.
+- [Cribelo](https://github.com/cribelo/cribelo) tells you which files of a pull request to read, in which order, and which ones you can skip. It runs on your machine or as a GitHub Action, without a language model.
 - [go-php-parser](https://github.com/Halleck45/go-php-parser) parses PHP into an AST from Go, for tools that need to read PHP without running it.
 - [PromptCC](https://github.com/Halleck45/promptcc) applies the same idea to LLM prompts. It finds the hidden branching in CLAUDE.md files, skills and agent instructions.
 
