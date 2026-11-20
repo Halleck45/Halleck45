@@ -9,7 +9,7 @@
 
   ## Measuring code
 
-  - [AST-Metrics](https://github.com/Halleck45/ast-metrics) measures complexity and coupling in Go, Python, Rust and PHP, with a random forest to [TODO].
+  - [AST-Metrics](https://github.com/Halleck45/ast-metrics) measures complexity and coupling in Go, Python, Rust and PHP, and uses a random forest to recognize the architectural role of each component.
   - [PhpMetrics](https://github.com/phpmetrics/PhpMetrics) does the same for PHP.
   - [go-php-parser](https://github.com/Halleck45/go-php-parser) parses PHP from Go.
 
